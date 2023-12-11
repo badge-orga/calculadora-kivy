@@ -7,7 +7,8 @@ from kivy.core.window import Window
 from kivy.clock import Clock
 
 
-
+class x(Screen):
+    pass
 class Navigator(Screen):
     pass
 
